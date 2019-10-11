@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Kismet</name>
+  <description>SELECT * FROM wireless</description>
+<Style id="BWP Free WiFi_normal">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BWP Free WiFi_highlight">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BWP Free WiFi_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BWP Free WiFi_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BWP Free WiFi_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BWP Free WiFi</name>
+<styleUrl>#BWP Free WiFi_styleMap</styleUrl>    <description><![CDATA[BSSID:00:0D:97:00:5B:33<br>Encryption: None<br>Channel: 11<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="BWP Free WiFi_normal">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BWP Free WiFi_highlight">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BWP Free WiFi_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BWP Free WiFi_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BWP Free WiFi_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BWP Free WiFi</name>
+<styleUrl>#BWP Free WiFi_styleMap</styleUrl>    <description><![CDATA[BSSID:00:0D:97:08:16:09<br>Encryption: None<br>Channel: 0<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name></name>
+<styleUrl>#_styleMap</styleUrl>    <description><![CDATA[BSSID:00:0D:97:08:51:69<br>Encryption: WPA+TKIP WPA+PSK WPA+AES-CCM<br>Channel: 161<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="BWP Free WiFi_normal">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BWP Free WiFi_highlight">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BWP Free WiFi_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BWP Free WiFi_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BWP Free WiFi_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BWP Free WiFi</name>
+<styleUrl>#BWP Free WiFi_styleMap</styleUrl>    <description><![CDATA[BSSID:00:0D:97:09:FF:E0<br>Encryption: None<br>Channel: 11<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343765</longitude><latitude>34.197998</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343765,34.197998,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="AE WLAN_normal">
+            <IconStyle>
+                <color>7f00FFFF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="AE WLAN_highlight">
+            <IconStyle>
+                <color>7f00FFFF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="AE WLAN_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#AE WLAN_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#AE WLAN_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>AE WLAN</name>
+<styleUrl>#AE WLAN_styleMap</styleUrl>    <description><![CDATA[BSSID:00:13:C4:0D:F7:80<br>Encryption: WPA+TKIP<br>Channel: 0<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="R-WU-WLAN_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="R-WU-WLAN_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="R-WU-WLAN_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#R-WU-WLAN_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#R-WU-WLAN_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>R-WU-WLAN</name>
+<styleUrl>#R-WU-WLAN_styleMap</styleUrl>    <description><![CDATA[BSSID:00:1A:8C:8C:B5:A3<br>Encryption: WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="Guest_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="Guest_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="Guest_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#Guest_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#Guest_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>Guest</name>
+<styleUrl>#Guest_styleMap</styleUrl>    <description><![CDATA[BSSID:00:1A:8C:8C:B5:A4<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="R-US-WiFi_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="R-US-WiFi_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="R-US-WiFi_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#R-US-WiFi_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#R-US-WiFi_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>R-US-WiFi</name>
+<styleUrl>#R-US-WiFi_styleMap</styleUrl>    <description><![CDATA[BSSID:00:1A:8C:8C:B5:A5<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="R-Artist_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="R-Artist_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="R-Artist_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#R-Artist_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#R-Artist_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>R-Artist</name>
+<styleUrl>#R-Artist_styleMap</styleUrl>    <description><![CDATA[BSSID:00:1A:8C:8C:B5:A6<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="Starbucks 7310_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="Starbucks 7310_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="Starbucks 7310_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#Starbucks 7310_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#Starbucks 7310_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>Starbucks 7310</name>
+<styleUrl>#Starbucks 7310_styleMap</styleUrl>    <description><![CDATA[BSSID:0E:EC:DA:A5:52:34<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 36<br><br>Current Clients: <br>MAC Address:	9C:B6:D0:66:B5:B7<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="RW_Lab_normal">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="RW_Lab_highlight">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="RW_Lab_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#RW_Lab_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#RW_Lab_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>RW_Lab</name>
+<styleUrl>#RW_Lab_styleMap</styleUrl>    <description><![CDATA[BSSID:24:79:2A:7C:30:E8<br>Encryption: None<br>Channel: 4<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="RW_Guest_normal">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="RW_Guest_highlight">
+            <IconStyle>
+                <color>7f0000FF</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="RW_Guest_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#RW_Guest_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#RW_Guest_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>RW_Guest</name>
+<styleUrl>#RW_Guest_styleMap</styleUrl>    <description><![CDATA[BSSID:24:79:2A:BC:30:E8<br>Encryption: None<br>Channel: 4<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="AFAF_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="AFAF_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="AFAF_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#AFAF_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#AFAF_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>AFAF</name>
+<styleUrl>#AFAF_styleMap</styleUrl>    <description><![CDATA[BSSID:4A:D9:E7:0B:22:0D<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 11<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="AFAF-Guest_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="AFAF-Guest_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="AFAF-Guest_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#AFAF-Guest_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#AFAF-Guest_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>AFAF-Guest</name>
+<styleUrl>#AFAF-Guest_styleMap</styleUrl>    <description><![CDATA[BSSID:4E:D9:E7:0B:22:0D<br>Encryption: WPA+TKIP WPA+PSK WPA+AES-CCM<br>Channel: 11<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="AEGUEST_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="AEGUEST_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="AEGUEST_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#AEGUEST_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#AEGUEST_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>AEGUEST</name>
+<styleUrl>#AEGUEST_styleMap</styleUrl>    <description><![CDATA[BSSID:94:B4:0F:07:59:41<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name></name>
+<styleUrl>#_styleMap</styleUrl>    <description><![CDATA[BSSID:94:B4:0F:07:59:43<br>Encryption: WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343788</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343788,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="AEGUEST_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="AEGUEST_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="AEGUEST_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#AEGUEST_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#AEGUEST_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>AEGUEST</name>
+<styleUrl>#AEGUEST_styleMap</styleUrl>    <description><![CDATA[BSSID:94:B4:0F:19:1C:21<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343788</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343788,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name></name>
+<styleUrl>#_styleMap</styleUrl>    <description><![CDATA[BSSID:94:B4:0F:19:1C:22<br>Encryption: WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br>MAC Address:	00:00:5E:00:01:01<br>Manufacturer:	Unknown<br><br>MAC Address:	00:1E:4F:0B:A7:A5<br>Manufacturer:	Unknown<br><br>MAC Address:	00:1E:67:84:D7:38<br>Manufacturer:	Unknown<br><br>MAC Address:	00:22:13:00:14:BA<br>Manufacturer:	Unknown<br><br>MAC Address:	00:22:13:00:14:E9<br>Manufacturer:	Unknown<br><br>MAC Address:	00:22:13:00:14:EE<br>Manufacturer:	Unknown<br><br>MAC Address:	00:22:13:00:17:3F<br>Manufacturer:	Unknown<br><br>MAC Address:	00:26:B9:ED:0E:EA<br>Manufacturer:	Unknown<br><br>MAC Address:	00:50:56:9D:00:56<br>Manufacturer:	Unknown<br><br>MAC Address:	00:50:56:9D:01:1E<br>Manufacturer:	Unknown<br><br>MAC Address:	00:50:56:9D:01:36<br>Manufacturer:	Unknown<br><br>MAC Address:	00:50:56:9D:01:BE<br>Manufacturer:	Unknown<br><br>MAC Address:	00:50:56:A2:22:99<br>Manufacturer:	Unknown<br><br>MAC Address:	00:50:56:A2:33:40<br>Manufacturer:	Unknown<br><br>MAC Address:	00:50:56:A2:49:92<br>Manufacturer:	Unknown<br><br>MAC Address:	00:50:56:A2:93:3F<br>Manufacturer:	Unknown<br><br>MAC Address:	00:50:56:A2:F0:46<br>Manufacturer:	Unknown<br><br>MAC Address:	00:80:2F:17:1D:D3<br>Manufacturer:	Unknown<br><br>MAC Address:	08:11:96:EF:07:40<br>Manufacturer:	Unknown<br><br>MAC Address:	18:03:73:C0:E5:12<br>Manufacturer:	Unknown<br><br>MAC Address:	1C:4D:70:F5:DB:74<br>Manufacturer:	Unknown<br><br>MAC Address:	20:FD:F1:A0:55:CF<br>Manufacturer:	Unknown<br><br>MAC Address:	28:F1:0E:11:4E:E5<br>Manufacturer:	Unknown<br><br>MAC Address:	50:6B:8D:24:32:55<br>Manufacturer:	Unknown<br><br>MAC Address:	50:6B:8D:A7:EC:68<br>Manufacturer:	Unknown<br><br>MAC Address:	50:6B:8D:CC:BD:BC<br>Manufacturer:	Unknown<br><br>MAC Address:	5C:26:0A:7F:1F:23<br>Manufacturer:	Unknown<br><br>MAC Address:	60:57:18:79:46:86<br>Manufacturer:	Unknown<br><br>MAC Address:	68:14:01:72:91:0B<br>Manufacturer:	Unknown<br><br>MAC Address:	94:53:30:03:48:A1<br>Manufacturer:	Unknown<br><br>MAC Address:	98:90:96:D7:65:A0<br>Manufacturer:	Unknown<br><br>MAC Address:	A4:BF:01:23:B3:0E<br>Manufacturer:	Unknown<br><br>MAC Address:	B8:AC:6F:19:AA:08<br>Manufacturer:	Unknown<br><br>MAC Address:	B8:AC:6F:43:78:75<br>Manufacturer:	Unknown<br><br>MAC Address:	B8:AC:6F:48:50:FC<br>Manufacturer:	Unknown<br><br>MAC Address:	BC:30:5B:A3:9B:EA<br>Manufacturer:	Unknown<br><br>MAC Address:	BC:30:5B:E2:E8:83<br>Manufacturer:	Unknown<br><br>MAC Address:	C8:F7:50:E4:63:5C<br>Manufacturer:	Unknown<br><br>MAC Address:	D4:BE:D9:8F:C2:E5<br>Manufacturer:	Unknown<br><br>MAC Address:	F0:1F:AF:52:64:9E<br>Manufacturer:	Unknown<br><br>MAC Address:	F0:4D:A2:28:63:EE<br>Manufacturer:	Unknown<br><br>MAC Address:	F8:BC:12:9F:1B:29<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343788</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343788,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name></name>
+<styleUrl>#_styleMap</styleUrl>    <description><![CDATA[BSSID:94:B4:0F:19:1C:23<br>Encryption: WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343788</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343788,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="AEGUEST_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="AEGUEST_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="AEGUEST_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#AEGUEST_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#AEGUEST_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>AEGUEST</name>
+<styleUrl>#AEGUEST_styleMap</styleUrl>    <description><![CDATA[BSSID:94:B4:0F:19:37:41<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 11<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343765</longitude><latitude>34.197998</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343765,34.197998,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name></name>
+<styleUrl>#_styleMap</styleUrl>    <description><![CDATA[BSSID:B4:FB:E4:71:A0:EA<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 11<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="BRMS-2.4G_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="BRMS-2.4G_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="BRMS-2.4G_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#BRMS-2.4G_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#BRMS-2.4G_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>BRMS-2.4G</name>
+<styleUrl>#BRMS-2.4G_styleMap</styleUrl>    <description><![CDATA[BSSID:C4:04:15:4A:D7:CA<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 7<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="HOME_0A70D0_2G_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="HOME_0A70D0_2G_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="HOME_0A70D0_2G_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#HOME_0A70D0_2G_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#HOME_0A70D0_2G_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>HOME_0A70D0_2G</name>
+<styleUrl>#HOME_0A70D0_2G_styleMap</styleUrl>    <description><![CDATA[BSSID:E4:95:6E:0A:70:D0<br>Encryption: WPA+TKIP WPA+PSK WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343788</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343788,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="PROCESS_CONTROL_LAB_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="PROCESS_CONTROL_LAB_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="PROCESS_CONTROL_LAB_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#PROCESS_CONTROL_LAB_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#PROCESS_CONTROL_LAB_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>PROCESS_CONTROL_LAB</name>
+<styleUrl>#PROCESS_CONTROL_LAB_styleMap</styleUrl>    <description><![CDATA[BSSID:F8:1D:0F:B8:C0:F8<br>Encryption: WPA+TKIP WPA+PSK WPA+AES-CCM<br>Channel: 1<br><br>Current Clients: <br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="NSL_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="NSL_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="NSL_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#NSL_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#NSL_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>NSL</name>
+<styleUrl>#NSL_styleMap</styleUrl>    <description><![CDATA[BSSID:FC:EC:DA:A4:52:34<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 6<br><br>Current Clients: <br>MAC Address:	BC:3F:4E:24:18:AA<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="Starbucks 7310_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="Starbucks 7310_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="Starbucks 7310_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#Starbucks 7310_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#Starbucks 7310_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>Starbucks 7310</name>
+<styleUrl>#Starbucks 7310_styleMap</styleUrl>    <description><![CDATA[BSSID:FE:EC:DA:A4:52:34<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 6<br><br>Current Clients: <br>MAC Address:	88:B1:11:6B:0F:17<br>Manufacturer:	Unknown<br><br>MAC Address:	9C:B6:D0:66:B5:B7<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+<Style id="NSL_normal">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <Style id="NSL_highlight">
+            <IconStyle>
+                <color>7f00FF00</color>
+                <scale>1</scale>
+                <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+                </Icon>
+            </IconStyle>
+            </Style>
+        <StyleMap id="NSL_styleMap">
+            <Pair>
+            <key>normal</key>
+            <styleUrl>#NSL_normal</styleUrl>
+            </Pair>
+            <Pair>
+            <key>highlight</key>
+            <styleUrl>#NSL_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Placemark>
+    <name>NSL</name>
+<styleUrl>#NSL_styleMap</styleUrl>    <description><![CDATA[BSSID:FE:EC:DA:A5:52:34<br>Encryption: WPA+PSK WPA+AES-CCM<br>Channel: 36<br><br>Current Clients: <br>MAC Address:	8C:85:90:24:2A:DF<br>Manufacturer:	Unknown<br><br><br><br>]]></description>
+    <Point>
+<LookAt><longitude>-118.343781</longitude><latitude>34.197994</latitude><altitude>1</altitude><range>1</range><tilt>1</tilt><heading>1</heading></LookAt>      <coordinates>-118.343781,34.197994,0</coordinates>
+    </Point>
+  </Placemark>
+
+</Document>
+</kml>
