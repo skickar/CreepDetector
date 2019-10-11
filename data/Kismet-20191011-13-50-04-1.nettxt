@@ -1,0 +1,3280 @@
+Kismet (http://www.kismetwireless.net)
+Fri Oct 11 13:50:04 2019 - Kismet 2016.07.R1
+-----------------
+
+Network 1: BSSID 00:0D:97:00:5B:33
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:30 2019
+ Last       : Fri Oct 11 13:51:10 2019
+ Type       : infrastructure
+ BSSID      : 00:0D:97:00:5B:33
+   SSID 1
+    Type       : Beacon
+    SSID       : "BWP Free WiFi" 
+    First      : Fri Oct 11 13:50:49 2019
+    Last       : Fri Oct 11 13:51:10 2019
+    Max Rate   : 54.0
+    Beacon     : 4
+    Packets    : 2
+    WPS        : No
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 3 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 2
+ Data       : 1
+ Crypt      : 1
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 396
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+ Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197995 AvgLon -118.343775 AvgAlt 219.975900
+ Last BSSTS : Oct 11 13:51:08
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+              Fri Oct 11 13:51:10 2019
+ Client 1: MAC 00:0D:97:00:5B:33
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:30 2019
+  Last       : Fri Oct 11 13:51:10 2019
+  Type       : From Distribution
+  MAC        : 00:0D:97:00:5B:33
+  Channel    : 11
+  Frequency  : 2462 - 3 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 2
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 396
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+  Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197995 AvgLon -118.343775 AvgAlt 219.975900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+               Fri Oct 11 13:51:10 2019
+Network 2: BSSID 00:0D:97:08:16:09
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:30 2019
+ Last       : Fri Oct 11 13:50:49 2019
+ Type       : infrastructure
+ BSSID      : 00:0D:97:08:16:09
+   SSID 1
+    Type       : Probe Response
+    SSID       : "BWP Free WiFi" 
+    First      : Fri Oct 11 13:50:30 2019
+    Last       : Fri Oct 11 13:50:49 2019
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 3
+    WPS        : No
+    Encryption : None
+ Channel    : 0
+ Frequency  : 2462 - 3 packets, 100.00%
+ Max Seen   : 2000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Oct 11 13:49:53
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+              Fri Oct 11 13:50:49 2019
+ Client 1: MAC 00:0D:97:08:16:09
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:30 2019
+  Last       : Fri Oct 11 13:50:49 2019
+  Type       : Unknown
+  MAC        : 00:0D:97:08:16:09
+  Channel    : 0
+  Frequency  : 2462 - 3 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+               Fri Oct 11 13:50:49 2019
+Network 3: BSSID 00:0D:97:08:51:69
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:23 2019
+ Last       : Fri Oct 11 13:51:04 2019
+ Type       : infrastructure
+ BSSID      : 00:0D:97:08:51:69
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Fri Oct 11 13:50:23 2019
+    Last       : Fri Oct 11 13:51:04 2019
+    Max Rate   : 54.0
+    Beacon     : 4
+    Packets    : 3
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA
+ Channel    : 161
+ Frequency  : 5805 - 5 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b
+ Encoding   : CCK
+ LLC        : 3
+ Data       : 2
+ Crypt      : 2
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 728
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Oct 11 13:50:59
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 5 packets
+              Fri Oct 11 13:51:04 2019
+ Client 1: MAC 00:0D:97:08:51:69
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:23 2019
+  Last       : Fri Oct 11 13:51:04 2019
+  Type       : From Distribution
+  MAC        : 00:0D:97:08:51:69
+  Channel    : 161
+  Frequency  : 5805 - 5 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b
+  Encoding   : CCK
+  LLC        : 3
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 728
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 5 packets
+               Fri Oct 11 13:51:04 2019
+Network 4: BSSID 00:0D:97:09:FF:E0
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:30 2019
+ Last       : Fri Oct 11 13:51:10 2019
+ Type       : infrastructure
+ BSSID      : 00:0D:97:09:FF:E0
+   SSID 1
+    Type       : Probe Response
+    SSID       : "" (Cloaked)
+    First      : Fri Oct 11 13:50:30 2019
+    Last       : Fri Oct 11 13:50:30 2019
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 6
+    WPS        : No
+    Encryption : WEP
+   SSID 2
+    Type       : Beacon
+    SSID       : "BWP Free WiFi" 
+    First      : Fri Oct 11 13:51:10 2019
+    Last       : Fri Oct 11 13:51:10 2019
+    Max Rate   : 54.0
+    Beacon     : 4
+    Packets    : 2
+    WPS        : No
+    Encryption : None
+ Channel    : 11
+ Frequency  : 2462 - 9 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 8
+ Data       : 1
+ Crypt      : 1
+ Fragments  : 0
+ Retries    : 0
+ Total      : 9
+ Datasize   : 396
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+ Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197998 Lon -118.343765 Alt 219.714005
+ Avg Pos    : AvgLat 34.197995 AvgLon -118.343777 AvgAlt 220.019500
+ Last BSSTS : Oct 11 13:50:30
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 9 packets
+              Fri Oct 11 13:51:10 2019
+ Client 1: MAC 00:0D:97:09:FF:E0
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:30 2019
+  Last       : Fri Oct 11 13:51:10 2019
+  Type       : From Distribution
+  MAC        : 00:0D:97:09:FF:E0
+  Channel    : 11
+  Frequency  : 2462 - 9 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 8
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 9
+  Datasize   : 396
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+  Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197998 Lon -118.343765 Alt 219.714005
+  Avg Pos    : AvgLat 34.197995 AvgLon -118.343777 AvgAlt 220.019500
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 9 packets
+               Fri Oct 11 13:51:10 2019
+Network 5: BSSID 00:13:C4:0D:F7:80
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:59 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : infrastructure
+ BSSID      : 00:13:C4:0D:F7:80
+   SSID 1
+    Type       : Probe Response
+    SSID       : "AE WLAN" 
+    Info       : BUR19AP02
+    First      : Fri Oct 11 13:50:59 2019
+    Last       : Fri Oct 11 13:50:59 2019
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 5
+    WPS        : No
+    Encryption : WPA+TKIP
+    WPA Version: WPA
+ Channel    : 0
+ Frequency  : 2432 - 5 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 5
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Apr 15 12:51:37
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 5 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC 00:13:C4:0D:F7:80
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : Unknown
+  MAC        : 00:13:C4:0D:F7:80
+  Channel    : 0
+  Frequency  : 2432 - 5 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 5 packets
+               Fri Oct 11 13:50:59 2019
+Network 6: BSSID 00:1A:8C:8C:B5:A3
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:18 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : infrastructure
+ BSSID      : 00:1A:8C:8C:B5:A3
+   SSID 1
+    Type       : Beacon
+    SSID       : "R-WU-WLAN" 
+    First      : Fri Oct 11 13:50:18 2019
+    Last       : Fri Oct 11 13:50:59 2019
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 4
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 4 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 4
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 4
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343782 AvgAlt 220.205100
+ Last BSSTS : Aug  5 00:34:25
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 4 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC 00:1A:8C:8C:B5:A3
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:1A:8C:8C:B5:A3
+  Channel    : 1
+  Frequency  : 2412 - 4 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 4
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343782 AvgAlt 220.205100
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 4 packets
+               Fri Oct 11 13:50:59 2019
+Network 7: BSSID 00:1A:8C:8C:B5:A4
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:59 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : infrastructure
+ BSSID      : 00:1A:8C:8C:B5:A4
+   SSID 1
+    Type       : Beacon
+    SSID       : "Guest" 
+    First      : Fri Oct 11 13:50:59 2019
+    Last       : Fri Oct 11 13:50:59 2019
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 3
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 3 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Aug  5 00:34:25
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC 00:1A:8C:8C:B5:A4
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:1A:8C:8C:B5:A4
+  Channel    : 1
+  Frequency  : 2412 - 3 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+               Fri Oct 11 13:50:59 2019
+Network 8: BSSID 00:1A:8C:8C:B5:A5
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:18 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : infrastructure
+ BSSID      : 00:1A:8C:8C:B5:A5
+   SSID 1
+    Type       : Beacon
+    SSID       : "R-US-WiFi" 
+    First      : Fri Oct 11 13:50:18 2019
+    Last       : Fri Oct 11 13:50:59 2019
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 6
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 6 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 6
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 6
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343783 AvgAlt 220.237900
+ Last BSSTS : Aug  5 00:34:25
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 6 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC 00:1A:8C:8C:B5:A5
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:1A:8C:8C:B5:A5
+  Channel    : 1
+  Frequency  : 2412 - 6 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 6
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 6
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343783 AvgAlt 220.237900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 6 packets
+               Fri Oct 11 13:50:59 2019
+Network 9: BSSID 00:1A:8C:8C:B5:A6
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:18 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : infrastructure
+ BSSID      : 00:1A:8C:8C:B5:A6
+   SSID 1
+    Type       : Beacon
+    SSID       : "R-Artist" 
+    First      : Fri Oct 11 13:50:18 2019
+    Last       : Fri Oct 11 13:50:59 2019
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 5
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 5 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 5
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343784 AvgAlt 220.264100
+ Last BSSTS : Aug  5 00:34:25
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 5 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC 00:1A:8C:8C:B5:A6
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:1A:8C:8C:B5:A6
+  Channel    : 1
+  Frequency  : 2412 - 5 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343784 AvgAlt 220.264100
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 5 packets
+               Fri Oct 11 13:50:59 2019
+Network 10: BSSID 0E:EC:DA:A5:52:34
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:35 2019
+ Last       : Fri Oct 11 13:50:54 2019
+ Type       : infrastructure
+ BSSID      : 0E:EC:DA:A5:52:34
+   SSID 1
+    Type       : Beacon
+    SSID       : "Starbucks 7310" 
+    First      : Fri Oct 11 13:50:35 2019
+    Last       : Fri Oct 11 13:50:54 2019
+    Max Rate   : 450.0
+    Beacon     : 10
+    Packets    : 9
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 36
+ Frequency  : 5180 - 23 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b
+ Encoding   : CCK
+ LLC        : 14
+ Data       : 9
+ Crypt      : 2
+ Fragments  : 0
+ Retries    : 0
+ Total      : 23
+ Datasize   : 1204
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Jul 27 15:23:30
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 23 packets
+              Fri Oct 11 13:50:54 2019
+ Alert      : Fri Oct 11 13:50:35 2019 ADHOCCONFLICT Network BSSID 0E:EC:DA:A5:52:34 advertised as AP network, now advertising as Ad-Hoc IBSS, which may indicate AP spoofing/impersonation
+ Client 1: MAC 0E:EC:DA:A5:52:34
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:35 2019
+  Last       : Fri Oct 11 13:50:54 2019
+  Type       : From Distribution
+  MAC        : 0E:EC:DA:A5:52:34
+  Channel    : 36
+  Frequency  : 5180 - 14 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b
+  Encoding   : CCK
+  LLC        : 12
+  Data       : 2
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 14
+  Datasize   : 318
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 14 packets
+               Fri Oct 11 13:50:54 2019
+ Client 2: MAC 9C:B6:D0:66:B5:B7
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:35 2019
+  Last       : Fri Oct 11 13:50:54 2019
+  Type       : Ad-hoc
+  MAC        : 9C:B6:D0:66:B5:B7
+  Channel    : 0
+  Frequency  : 5180 - 9 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b
+  Encoding   : CCK
+  LLC        : 2
+  Data       : 7
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 9
+  Datasize   : 886
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 9 packets
+               Fri Oct 11 13:50:54 2019
+Network 11: BSSID 24:77:03:F9:61:1C
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:28 2019
+ Last       : Fri Oct 11 13:50:28 2019
+ Type       : probe
+ BSSID      : 24:77:03:F9:61:1C
+ Channel    : 0
+ Frequency  : 2442 - 3 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Oct 11 13:50:28
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+              Fri Oct 11 13:50:28 2019
+ Client 1: MAC 24:77:03:F9:61:1C
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:28 2019
+  Last       : Fri Oct 11 13:50:28 2019
+  Type       : To Distribution
+  MAC        : 24:77:03:F9:61:1C
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Oct 11 13:50:28 2019
+    Last       : Fri Oct 11 13:50:28 2019
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 2
+    Type       : Probe Request
+    SSID       : Starbucks 7310
+    First      : Fri Oct 11 13:50:28 2019
+    Last       : Fri Oct 11 13:50:28 2019
+    Max Rate   : 216.7
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2442 - 3 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+               Fri Oct 11 13:50:28 2019
+Network 12: BSSID 24:79:2A:7C:30:E8
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:54 2019
+ Last       : Fri Oct 11 13:50:54 2019
+ Type       : infrastructure
+ BSSID      : 24:79:2A:7C:30:E8
+   SSID 1
+    Type       : Beacon
+    SSID       : "RW_Lab" 
+    First      : Fri Oct 11 13:50:54 2019
+    Last       : Fri Oct 11 13:50:54 2019
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 1
+    WPS        : No
+    Encryption : None
+ Channel    : 4
+ Frequency  : 2427 - 1 packets, 100.00%
+ Max Seen   : 2000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Oct 11 12:54:54
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+              Fri Oct 11 13:50:54 2019
+ Client 1: MAC 24:79:2A:7C:30:E8
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:54 2019
+  Last       : Fri Oct 11 13:50:54 2019
+  Type       : From Distribution
+  MAC        : 24:79:2A:7C:30:E8
+  Channel    : 4
+  Frequency  : 2427 - 1 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:54 2019
+Network 13: BSSID 24:79:2A:BC:30:E8
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:53 2019
+ Last       : Fri Oct 11 13:50:54 2019
+ Type       : infrastructure
+ BSSID      : 24:79:2A:BC:30:E8
+   SSID 1
+    Type       : Beacon
+    SSID       : "RW_Guest" 
+    First      : Fri Oct 11 13:50:53 2019
+    Last       : Fri Oct 11 13:50:54 2019
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 2
+    WPS        : No
+    Encryption : None
+ Channel    : 4
+ Frequency  : 2427 - 2 packets, 100.00%
+ Max Seen   : 2000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Oct 11 12:54:54
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+              Fri Oct 11 13:50:54 2019
+ Client 1: MAC 24:79:2A:BC:30:E8
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:53 2019
+  Last       : Fri Oct 11 13:50:54 2019
+  Type       : From Distribution
+  MAC        : 24:79:2A:BC:30:E8
+  Channel    : 4
+  Frequency  : 2427 - 2 packets, 100.00%
+  Max Seen   : 2000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:54 2019
+Network 14: BSSID 4A:D9:E7:0B:22:0D
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:49 2019
+ Last       : Fri Oct 11 13:50:49 2019
+ Type       : infrastructure
+ BSSID      : 4A:D9:E7:0B:22:0D
+   SSID 1
+    Type       : Beacon
+    SSID       : "AFAF" 
+    First      : Fri Oct 11 13:50:49 2019
+    Last       : Fri Oct 11 13:50:49 2019
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 2
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 11
+ Frequency  : 2462 - 2 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Jul 23 09:48:57
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+              Fri Oct 11 13:50:49 2019
+ Client 1: MAC 4A:D9:E7:0B:22:0D
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:49 2019
+  Last       : Fri Oct 11 13:50:49 2019
+  Type       : From Distribution
+  MAC        : 4A:D9:E7:0B:22:0D
+  Channel    : 11
+  Frequency  : 2462 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:49 2019
+Network 15: BSSID 4E:D9:E7:0B:22:0D
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:30 2019
+ Last       : Fri Oct 11 13:51:10 2019
+ Type       : infrastructure
+ BSSID      : 4E:D9:E7:0B:22:0D
+   SSID 1
+    Type       : Beacon
+    SSID       : "AFAF-Guest" 
+    First      : Fri Oct 11 13:50:30 2019
+    Last       : Fri Oct 11 13:51:10 2019
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 5
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 11
+ Frequency  : 2462 - 5 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 5
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 5
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+ Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197996 AvgLon -118.343774 AvgAlt 219.949700
+ Last BSSTS : Jul 23 09:48:58
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 5 packets
+              Fri Oct 11 13:51:10 2019
+ Client 1: MAC 4E:D9:E7:0B:22:0D
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:30 2019
+  Last       : Fri Oct 11 13:51:10 2019
+  Type       : From Distribution
+  MAC        : 4E:D9:E7:0B:22:0D
+  Channel    : 11
+  Frequency  : 2462 - 5 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 5
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+  Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197996 AvgLon -118.343774 AvgAlt 219.949700
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 5 packets
+               Fri Oct 11 13:51:10 2019
+Network 16: BSSID 94:B4:0F:07:59:41
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:39 2019
+ Last       : Fri Oct 11 13:50:39 2019
+ Type       : infrastructure
+ BSSID      : 94:B4:0F:07:59:41
+   SSID 1
+    Type       : Beacon
+    SSID       : "AEGUEST" 
+    First      : Fri Oct 11 13:50:39 2019
+    Last       : Fri Oct 11 13:50:39 2019
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 1
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Oct 10 23:57:36
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+              Fri Oct 11 13:50:39 2019
+ Client 1: MAC 94:B4:0F:07:59:41
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : 94:B4:0F:07:59:41
+  Channel    : 1
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+Network 17: BSSID 94:B4:0F:07:59:42
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:18 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : data
+ BSSID      : 94:B4:0F:07:59:42
+ Channel    : 0
+ Frequency  : 2412 - 30 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 0
+ Data       : 30
+ Crypt      : 30
+ Fragments  : 0
+ Retries    : 0
+ Total      : 30
+ Datasize   : 3661
+ Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343782 AvgAlt 220.185500
+ Last BSSTS : Oct 11 13:50:59
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 30 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC 00:00:5E:00:01:01
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:00:5E:00:01:01
+  Channel    : 0
+  Frequency  : 2412 - 8 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 8
+  Crypt      : 8
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 752
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343782 AvgAlt 220.156000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 8 packets
+               Fri Oct 11 13:50:59 2019
+ Client 2: MAC 00:50:56:9D:00:56
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:9D:00:56
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 3: MAC 00:50:56:9D:01:1E
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:9D:01:1E
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 188
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 4: MAC 20:FD:F1:A0:55:CF
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 20:FD:F1:A0:55:CF
+  Channel    : 0
+  Frequency  : 2412 - 6 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 6
+  Crypt      : 6
+  Fragments  : 0
+  Retries    : 0
+  Total      : 6
+  Datasize   : 564
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343783 AvgAlt 220.237900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 6 packets
+               Fri Oct 11 13:50:59 2019
+ Client 5: MAC 28:F1:0E:11:4E:E5
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:18 2019
+  Type       : From Distribution
+  MAC        : 28:F1:0E:11:4E:E5
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 199
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343788 AvgAlt 220.500000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:18 2019
+ Client 6: MAC 50:6B:8D:24:32:55
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : 50:6B:8D:24:32:55
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 126
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 7: MAC 50:6B:8D:A7:EC:68
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 50:6B:8D:A7:EC:68
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 233
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 8: MAC 50:9A:4C:31:C9:75
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 50:9A:4C:31:C9:75
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 126
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 9: MAC 5C:26:0A:7F:1F:23
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 5C:26:0A:7F:1F:23
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 199
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 10: MAC A4:BF:01:23:B3:0E
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : A4:BF:01:23:B3:0E
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 126
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 11: MAC BC:30:5B:E2:E8:83
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : BC:30:5B:E2:E8:83
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 12: MAC C8:F7:50:E4:63:5C
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : C8:F7:50:E4:63:5C
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 678
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343784 AvgAlt 220.303400
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 13: MAC D4:BE:D9:8F:C2:E5
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : D4:BE:D9:8F:C2:E5
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 188
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343784 AvgAlt 220.303400
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 14: MAC F0:4D:A2:28:63:EE
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : F0:4D:A2:28:63:EE
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+Network 18: BSSID 94:B4:0F:07:59:43
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:18 2019
+ Last       : Fri Oct 11 13:50:18 2019
+ Type       : infrastructure
+ BSSID      : 94:B4:0F:07:59:43
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Fri Oct 11 13:50:18 2019
+    Last       : Fri Oct 11 13:50:18 2019
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 1
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343788 AvgAlt 220.500000
+ Last BSSTS : Oct 10 23:57:36
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+              Fri Oct 11 13:50:18 2019
+ Client 1: MAC 94:B4:0F:07:59:43
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:18 2019
+  Type       : From Distribution
+  MAC        : 94:B4:0F:07:59:43
+  Channel    : 1
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343788 AvgAlt 220.500000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:18 2019
+Network 19: BSSID 94:B4:0F:19:1C:21
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:18 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : infrastructure
+ BSSID      : 94:B4:0F:19:1C:21
+   SSID 1
+    Type       : Beacon
+    SSID       : "AEGUEST" 
+    First      : Fri Oct 11 13:50:18 2019
+    Last       : Fri Oct 11 13:50:59 2019
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 8
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 8 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 8
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 8
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343782 AvgAlt 220.205100
+ Last BSSTS : Oct 11 12:25:44
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 8 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC 94:B4:0F:19:1C:21
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 94:B4:0F:19:1C:21
+  Channel    : 1
+  Frequency  : 2412 - 8 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343782 AvgAlt 220.205100
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 8 packets
+               Fri Oct 11 13:50:59 2019
+Network 20: BSSID 94:B4:0F:19:1C:22
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:18 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : infrastructure
+ BSSID      : 94:B4:0F:19:1C:22
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Fri Oct 11 13:50:18 2019
+    Last       : Fri Oct 11 13:50:59 2019
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 7
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 146 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 7
+ Data       : 139
+ Crypt      : 139
+ Fragments  : 0
+ Retries    : 0
+ Total      : 146
+ Datasize   : 16224
+ Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343783 AvgAlt 220.222600
+ Last BSSTS : Oct 11 12:25:43
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 146 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC 00:00:5E:00:01:01
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:00:5E:00:01:01
+  Channel    : 0
+  Frequency  : 2412 - 44 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 44
+  Crypt      : 44
+  Fragments  : 0
+  Retries    : 0
+  Total      : 44
+  Datasize   : 4136
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343784 AvgAlt 220.267700
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 44 packets
+               Fri Oct 11 13:50:59 2019
+ Client 2: MAC 00:1E:4F:0B:A7:A5
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:1E:4F:0B:A7:A5
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 172
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 3: MAC 00:1E:67:84:D7:38
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:1E:67:84:D7:38
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 4: MAC 00:22:13:00:14:BA
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : 00:22:13:00:14:BA
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 420
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 5: MAC 00:22:13:00:14:E9
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:18 2019
+  Type       : From Distribution
+  MAC        : 00:22:13:00:14:E9
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 417
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343788 AvgAlt 220.500000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:18 2019
+ Client 6: MAC 00:22:13:00:14:EE
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:22:13:00:14:EE
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 417
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 7: MAC 00:22:13:00:17:3F
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:22:13:00:17:3F
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 417
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 8: MAC 00:26:B9:ED:0E:EA
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:26:B9:ED:0E:EA
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 9: MAC 00:50:56:9D:00:56
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:9D:00:56
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 188
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 10: MAC 00:50:56:9D:01:1E
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:9D:01:1E
+  Channel    : 0
+  Frequency  : 2412 - 7 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 7
+  Crypt      : 7
+  Fragments  : 0
+  Retries    : 0
+  Total      : 7
+  Datasize   : 658
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 7 packets
+               Fri Oct 11 13:50:59 2019
+ Client 11: MAC 00:50:56:9D:01:36
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:9D:01:36
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 126
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 12: MAC 00:50:56:9D:01:BE
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:9D:01:BE
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 126
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 13: MAC 00:50:56:A2:22:99
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:A2:22:99
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 214
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 14: MAC 00:50:56:A2:33:40
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:A2:33:40
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 252
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343784 AvgAlt 220.303400
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 15: MAC 00:50:56:A2:49:92
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:18 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:A2:49:92
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 252
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343788 AvgAlt 220.500000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:18 2019
+ Client 16: MAC 00:50:56:A2:93:3F
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:A2:93:3F
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 107
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 17: MAC 00:50:56:A2:F0:46
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:A2:F0:46
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 18: MAC 00:80:2F:17:1D:D3
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:18 2019
+  Type       : From Distribution
+  MAC        : 00:80:2F:17:1D:D3
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343788 AvgAlt 220.500000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:18 2019
+ Client 19: MAC 08:11:96:EF:07:40
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : 08:11:96:EF:07:40
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 20: MAC 18:03:73:C0:E5:12
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : 18:03:73:C0:E5:12
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 21: MAC 1C:4D:70:F5:DB:74
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : 1C:4D:70:F5:DB:74
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 213
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 22: MAC 20:FD:F1:A0:55:CF
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 20:FD:F1:A0:55:CF
+  Channel    : 0
+  Frequency  : 2412 - 26 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 26
+  Crypt      : 26
+  Fragments  : 0
+  Retries    : 0
+  Total      : 26
+  Datasize   : 2444
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343783 AvgAlt 220.227800
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 26 packets
+               Fri Oct 11 13:50:59 2019
+ Client 23: MAC 28:F1:0E:11:4E:E5
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:18 2019
+  Type       : From Distribution
+  MAC        : 28:F1:0E:11:4E:E5
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 199
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343788 AvgAlt 220.500000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:18 2019
+ Client 24: MAC 50:6B:8D:24:32:55
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 50:6B:8D:24:32:55
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 233
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 25: MAC 50:6B:8D:A7:EC:68
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 50:6B:8D:A7:EC:68
+  Channel    : 0
+  Frequency  : 2412 - 4 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 4
+  Crypt      : 4
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 453
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343782 AvgAlt 220.205100
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 4 packets
+               Fri Oct 11 13:50:59 2019
+ Client 26: MAC 50:6B:8D:CC:BD:BC
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 50:6B:8D:CC:BD:BC
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 27: MAC 5C:26:0A:7F:1F:23
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 5C:26:0A:7F:1F:23
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 199
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 28: MAC 60:57:18:79:46:86
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 60:57:18:79:46:86
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 29: MAC 68:14:01:72:91:0B
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:18 2019
+  Type       : From Distribution
+  MAC        : 68:14:01:72:91:0B
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 199
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343788 AvgAlt 220.500000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:18 2019
+ Client 30: MAC 94:53:30:03:48:A1
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 94:53:30:03:48:A1
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 293
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343784 AvgAlt 220.303400
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 31: MAC 94:B4:0F:19:1C:22
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 94:B4:0F:19:1C:22
+  Channel    : 1
+  Frequency  : 2412 - 7 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 7
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 7
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343783 AvgAlt 220.219200
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 7 packets
+               Fri Oct 11 13:50:59 2019
+ Client 32: MAC 98:90:96:D7:65:A0
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : 98:90:96:D7:65:A0
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 126
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 33: MAC A4:BF:01:23:B3:0E
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : A4:BF:01:23:B3:0E
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 126
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 34: MAC B8:AC:6F:19:AA:08
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:18 2019
+  Type       : From Distribution
+  MAC        : B8:AC:6F:19:AA:08
+  Channel    : 0
+  Frequency  : 2412 - 4 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 4
+  Crypt      : 4
+  Fragments  : 0
+  Retries    : 0
+  Total      : 4
+  Datasize   : 673
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343788 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343788 AvgAlt 220.500000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 4 packets
+               Fri Oct 11 13:50:18 2019
+ Client 35: MAC B8:AC:6F:43:78:75
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : B8:AC:6F:43:78:75
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 198
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 36: MAC B8:AC:6F:48:50:FC
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:39 2019
+  Type       : From Distribution
+  MAC        : B8:AC:6F:48:50:FC
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:39 2019
+ Client 37: MAC BC:30:5B:A3:9B:EA
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : BC:30:5B:A3:9B:EA
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 38: MAC BC:30:5B:E2:E8:83
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : BC:30:5B:E2:E8:83
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 39: MAC C8:F7:50:E4:63:5C
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:39 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : C8:F7:50:E4:63:5C
+  Channel    : 0
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 678
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+ Client 40: MAC D4:BE:D9:8F:C2:E5
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : D4:BE:D9:8F:C2:E5
+  Channel    : 0
+  Frequency  : 2412 - 10 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 10
+  Crypt      : 10
+  Fragments  : 0
+  Retries    : 0
+  Total      : 10
+  Datasize   : 940
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343782 AvgAlt 220.185500
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 10 packets
+               Fri Oct 11 13:50:59 2019
+ Client 41: MAC F0:1F:AF:52:64:9E
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : F0:1F:AF:52:64:9E
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 126
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 42: MAC F0:4D:A2:28:63:EE
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : F0:4D:A2:28:63:EE
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+ Client 43: MAC F8:BC:12:9F:1B:29
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:59 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : F8:BC:12:9F:1B:29
+  Channel    : 0
+  Frequency  : 2412 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:59 2019
+Network 21: BSSID 94:B4:0F:19:1C:23
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:18 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : infrastructure
+ BSSID      : 94:B4:0F:19:1C:23
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Fri Oct 11 13:50:18 2019
+    Last       : Fri Oct 11 13:50:59 2019
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 8
+    WPS        : No
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 1
+ Frequency  : 2412 - 8 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 8
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 8
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343782 AvgAlt 220.205100
+ Last BSSTS : Oct 11 12:25:44
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 8 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC 94:B4:0F:19:1C:23
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : 94:B4:0F:19:1C:23
+  Channel    : 1
+  Frequency  : 2412 - 8 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343782 AvgAlt 220.205100
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 8 packets
+               Fri Oct 11 13:50:59 2019
+Network 22: BSSID 94:B4:0F:19:37:41
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:51:10 2019
+ Last       : Fri Oct 11 13:51:10 2019
+ Type       : infrastructure
+ BSSID      : 94:B4:0F:19:37:41
+   SSID 1
+    Type       : Beacon
+    SSID       : "AEGUEST" 
+    First      : Fri Oct 11 13:51:10 2019
+    Last       : Fri Oct 11 13:51:10 2019
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 1
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 11
+ Frequency  : 2462 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Min Pos    : Lat 34.197998 Lon -118.343765 Alt 219.714005 Spd 0.000000
+ Max Pos    : Lat 34.197998 Lon -118.343765 Alt 219.714005 Spd 0.000000
+ Peak Pos   : Lat 34.197998 Lon -118.343765 Alt 219.714005
+ Avg Pos    : AvgLat 34.197998 AvgLon -118.343765 AvgAlt 219.714000
+ Last BSSTS : Oct 11 12:47:01
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+              Fri Oct 11 13:51:10 2019
+ Client 1: MAC 94:B4:0F:19:37:41
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:51:10 2019
+  Last       : Fri Oct 11 13:51:10 2019
+  Type       : From Distribution
+  MAC        : 94:B4:0F:19:37:41
+  Channel    : 11
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+  Min Pos    : Lat 34.197998 Lon -118.343765 Alt 219.714005 Spd 0.000000
+  Max Pos    : Lat 34.197998 Lon -118.343765 Alt 219.714005 Spd 0.000000
+  Peak Pos   : Lat 34.197998 Lon -118.343765 Alt 219.714005
+  Avg Pos    : AvgLat 34.197998 AvgLon -118.343765 AvgAlt 219.714000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:51:10 2019
+Network 23: BSSID 94:B4:0F:19:37:42
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:49 2019
+ Last       : Fri Oct 11 13:51:10 2019
+ Type       : data
+ BSSID      : 94:B4:0F:19:37:42
+ Channel    : 0
+ Frequency  : 2462 - 21 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 0
+ Data       : 21
+ Crypt      : 21
+ Fragments  : 0
+ Retries    : 0
+ Total      : 21
+ Datasize   : 2006
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+ Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197997 AvgLon -118.343771 AvgAlt 219.863600
+ Last BSSTS : Oct 11 13:51:10
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 21 packets
+              Fri Oct 11 13:51:10 2019
+ Client 1: MAC 00:00:5E:00:01:01
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:49 2019
+  Last       : Fri Oct 11 13:50:50 2019
+  Type       : From Distribution
+  MAC        : 00:00:5E:00:01:01
+  Channel    : 0
+  Frequency  : 2462 - 5 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 5
+  Crypt      : 5
+  Fragments  : 0
+  Retries    : 0
+  Total      : 5
+  Datasize   : 470
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 5 packets
+               Fri Oct 11 13:50:50 2019
+ Client 2: MAC 00:1E:67:84:D7:38
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:51:10 2019
+  Last       : Fri Oct 11 13:51:10 2019
+  Type       : From Distribution
+  MAC        : 00:1E:67:84:D7:38
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197998 Lon -118.343765 Alt 219.714005 Spd 0.000000
+  Max Pos    : Lat 34.197998 Lon -118.343765 Alt 219.714005 Spd 0.000000
+  Peak Pos   : Lat 34.197998 Lon -118.343765 Alt 219.714005
+  Avg Pos    : AvgLat 34.197998 AvgLon -118.343765 AvgAlt 219.714000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:51:10 2019
+ Client 3: MAC 00:50:56:9D:01:1E
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:50 2019
+  Last       : Fri Oct 11 13:50:50 2019
+  Type       : From Distribution
+  MAC        : 00:50:56:9D:01:1E
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:50 2019
+ Client 4: MAC 20:FD:F1:A0:55:CF
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:49 2019
+  Last       : Fri Oct 11 13:51:10 2019
+  Type       : From Distribution
+  MAC        : 20:FD:F1:A0:55:CF
+  Channel    : 0
+  Frequency  : 2462 - 12 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 12
+  Crypt      : 12
+  Fragments  : 0
+  Retries    : 0
+  Total      : 12
+  Datasize   : 1128
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+  Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197998 Lon -118.343765 Alt 219.714005
+  Avg Pos    : AvgLat 34.197997 AvgLon -118.343768 AvgAlt 219.779400
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 12 packets
+               Fri Oct 11 13:51:10 2019
+ Client 5: MAC 60:57:18:74:C2:5A
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:51:10 2019
+  Last       : Fri Oct 11 13:51:10 2019
+  Type       : From Distribution
+  MAC        : 60:57:18:74:C2:5A
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 126
+  Min Pos    : Lat 34.197998 Lon -118.343765 Alt 219.714005 Spd 0.000000
+  Max Pos    : Lat 34.197998 Lon -118.343765 Alt 219.714005 Spd 0.000000
+  Peak Pos   : Lat 34.197998 Lon -118.343765 Alt 219.714005
+  Avg Pos    : AvgLat 34.197998 AvgLon -118.343765 AvgAlt 219.714000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:51:10 2019
+ Client 6: MAC F8:CA:B8:0C:E9:E8
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:51:10 2019
+  Last       : Fri Oct 11 13:51:10 2019
+  Type       : From Distribution
+  MAC        : F8:CA:B8:0C:E9:E8
+  Channel    : 0
+  Frequency  : 2462 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 94
+  Min Pos    : Lat 34.197998 Lon -118.343765 Alt 219.714005 Spd 0.000000
+  Max Pos    : Lat 34.197998 Lon -118.343765 Alt 219.714005 Spd 0.000000
+  Peak Pos   : Lat 34.197998 Lon -118.343765 Alt 219.714005
+  Avg Pos    : AvgLat 34.197998 AvgLon -118.343765 AvgAlt 219.714000
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:51:10 2019
+Network 24: BSSID 9C:B6:D0:66:B5:B7
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:35 2019
+ Last       : Fri Oct 11 13:50:35 2019
+ Type       : probe
+ BSSID      : 9C:B6:D0:66:B5:B7
+ Channel    : 0
+ Frequency  : 5180 - 1 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b
+ Encoding   : CCK
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Oct 11 13:50:35
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+              Fri Oct 11 13:50:35 2019
+ Client 1: MAC 9C:B6:D0:66:B5:B7
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:35 2019
+  Last       : Fri Oct 11 13:50:35 2019
+  Type       : To Distribution
+  MAC        : 9C:B6:D0:66:B5:B7
+   SSID 1
+    Type       : Probe Request
+    SSID       : Starbucks 7310
+    First      : Fri Oct 11 13:50:35 2019
+    Last       : Fri Oct 11 13:50:35 2019
+    Max Rate   : 300.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 5180 - 1 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b
+  Encoding   : CCK
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:35 2019
+Network 25: BSSID B4:FB:E4:71:A0:EA
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:30 2019
+ Last       : Fri Oct 11 13:51:10 2019
+ Type       : infrastructure
+ BSSID      : B4:FB:E4:71:A0:EA
+   SSID 1
+    Type       : Beacon
+    SSID       : "" (Cloaked)
+    First      : Fri Oct 11 13:50:30 2019
+    Last       : Fri Oct 11 13:51:10 2019
+    Max Rate   : 144.4
+    Beacon     : 10
+    Packets    : 7
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 11
+ Frequency  : 2462 - 7 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 7
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 7
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+ Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197995 AvgLon -118.343778 AvgAlt 220.050700
+ Last BSSTS : Oct 11 13:47:05
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 7 packets
+              Fri Oct 11 13:51:10 2019
+ Client 1: MAC B4:FB:E4:71:A0:EA
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:30 2019
+  Last       : Fri Oct 11 13:51:10 2019
+  Type       : From Distribution
+  MAC        : B4:FB:E4:71:A0:EA
+  Channel    : 11
+  Frequency  : 2462 - 7 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 7
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 7
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+  Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197995 AvgLon -118.343778 AvgAlt 220.050700
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 7 packets
+               Fri Oct 11 13:51:10 2019
+Network 26: BSSID BC:3F:4E:24:18:AA
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:51:04 2019
+ Last       : Fri Oct 11 13:51:04 2019
+ Type       : probe
+ BSSID      : BC:3F:4E:24:18:AA
+ Channel    : 0
+ Frequency  : 2417 - 1 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 1
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 1
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Oct 11 13:51:04
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+              Fri Oct 11 13:51:04 2019
+ Client 1: MAC BC:3F:4E:24:18:AA
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:51:04 2019
+  Last       : Fri Oct 11 13:51:04 2019
+  Type       : To Distribution
+  MAC        : BC:3F:4E:24:18:AA
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Oct 11 13:51:04 2019
+    Last       : Fri Oct 11 13:51:04 2019
+    Max Rate   : 150.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2417 - 1 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 1
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:51:04 2019
+Network 27: BSSID C4:04:15:4A:D7:CA
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:51:09 2019
+ Last       : Fri Oct 11 13:51:10 2019
+ Type       : infrastructure
+ BSSID      : C4:04:15:4A:D7:CA
+   SSID 1
+    Type       : Probe Response
+    SSID       : "BRMS-2.4G" 
+    First      : Fri Oct 11 13:51:09 2019
+    Last       : Fri Oct 11 13:51:10 2019
+    Max Rate   : 144.4
+    Beacon     : -1
+    Packets    : 3
+    WPS        : Configured
+    WPS Manuf  : NETGEAR, Inc.
+    Dev Name   : WNDR3400v3
+    Model Name : WNDR3400v3
+    Model Num  : WNDR3400v3
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 7
+ Frequency  : 2442 - 3 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+ Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197995 AvgLon -118.343775 AvgAlt 219.975900
+ Last BSSTS : Aug 11 01:11:41
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+              Fri Oct 11 13:51:10 2019
+ Client 1: MAC C4:04:15:4A:D7:CA
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:51:09 2019
+  Last       : Fri Oct 11 13:51:10 2019
+  Type       : Unknown
+  MAC        : C4:04:15:4A:D7:CA
+  Channel    : 7
+  Frequency  : 2442 - 3 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 219.714005 Spd 0.000000
+  Max Pos    : Lat 34.197998 Lon -118.343765 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197995 AvgLon -118.343775 AvgAlt 219.975900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+               Fri Oct 11 13:51:10 2019
+Network 28: BSSID E4:95:6E:0A:70:D0
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:18 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : infrastructure
+ BSSID      : E4:95:6E:0A:70:D0
+   SSID 1
+    Type       : Beacon
+    SSID       : "HOME_0A70D0_2G" 
+    First      : Fri Oct 11 13:50:18 2019
+    Last       : Fri Oct 11 13:50:59 2019
+    Max Rate   : 195.0
+    Beacon     : 10
+    Packets    : 2
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 1
+ Frequency  : 2412 - 2 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 2
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 2
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343784 AvgAlt 220.303400
+ Last BSSTS : Oct 11 13:50:55
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC E4:95:6E:0A:70:D0
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : E4:95:6E:0A:70:D0
+  Channel    : 1
+  Frequency  : 2412 - 2 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 2
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343788 Alt 220.500000
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343784 AvgAlt 220.303400
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:59 2019
+Network 29: BSSID F8:1D:0F:B8:C0:F8
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:18 2019
+ Last       : Fri Oct 11 13:50:59 2019
+ Type       : infrastructure
+ BSSID      : F8:1D:0F:B8:C0:F8
+   SSID 1
+    Type       : Beacon
+    SSID       : "PROCESS_CONTROL_LAB" 
+    First      : Fri Oct 11 13:50:18 2019
+    Last       : Fri Oct 11 13:50:59 2019
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 3
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+TKIP
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA+WPA2
+ Channel    : 1
+ Frequency  : 2412 - 3 packets, 100.00%
+ Max Seen   : 1000
+ LLC        : 3
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 3
+ Datasize   : 0
+ Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343783 AvgAlt 220.237900
+ Last BSSTS : Sep 17 15:24:12
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+              Fri Oct 11 13:50:59 2019
+ Client 1: MAC F8:1D:0F:B8:C0:F8
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:18 2019
+  Last       : Fri Oct 11 13:50:59 2019
+  Type       : From Distribution
+  MAC        : F8:1D:0F:B8:C0:F8
+  Channel    : 1
+  Frequency  : 2412 - 3 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 3
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 3
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343788 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.500000 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343783 AvgAlt 220.237900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 3 packets
+               Fri Oct 11 13:50:59 2019
+Network 30: BSSID FC:EC:DA:A4:52:34
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:23 2019
+ Last       : Fri Oct 11 13:51:05 2019
+ Type       : infrastructure
+ BSSID      : FC:EC:DA:A4:52:34
+   SSID 1
+    Type       : Beacon
+    SSID       : "NSL" 
+    First      : Fri Oct 11 13:50:23 2019
+    Last       : Fri Oct 11 13:51:05 2019
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 8
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 10 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ Encoding   : PBCC
+ LLC        : 8
+ Data       : 2
+ Crypt      : 2
+ Fragments  : 0
+ Retries    : 0
+ Total      : 10
+ Datasize   : 176
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Jul 27 14:09:52
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 10 packets
+              Fri Oct 11 13:51:05 2019
+ Client 1: MAC BC:3F:4E:24:18:AA
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:51:05 2019
+  Last       : Fri Oct 11 13:51:05 2019
+  Type       : Established
+  MAC        : BC:3F:4E:24:18:AA
+  Channel    : 0
+  Frequency  : 2437 - 2 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  Encoding   : PBCC
+  LLC        : 0
+  Data       : 2
+  Crypt      : 2
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 176
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:51:05 2019
+ Client 2: MAC FC:EC:DA:A4:52:34
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:23 2019
+  Last       : Fri Oct 11 13:51:05 2019
+  Type       : From Distribution
+  MAC        : FC:EC:DA:A4:52:34
+  Channel    : 6
+  Frequency  : 2437 - 8 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 8 packets
+               Fri Oct 11 13:51:05 2019
+Network 31: BSSID FE:EC:DA:A4:52:34
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:23 2019
+ Last       : Fri Oct 11 13:51:05 2019
+ Type       : infrastructure
+ BSSID      : FE:EC:DA:A4:52:34
+   SSID 1
+    Type       : Beacon
+    SSID       : "Starbucks 7310" 
+    First      : Fri Oct 11 13:50:23 2019
+    Last       : Fri Oct 11 13:51:05 2019
+    Max Rate   : 216.7
+    Beacon     : 10
+    Packets    : 9
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 6
+ Frequency  : 2437 - 11 packets, 100.00%
+ Max Seen   : 6000
+ Carrier    : IEEE 802.11b+
+ Encoding   : CCK
+ LLC        : 9
+ Data       : 2
+ Crypt      : 2
+ Fragments  : 0
+ Retries    : 0
+ Total      : 11
+ Datasize   : 588
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Jul 27 14:09:52
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 11 packets
+              Fri Oct 11 13:51:05 2019
+ Client 1: MAC 88:B1:11:6B:0F:17
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:23 2019
+  Last       : Fri Oct 11 13:50:23 2019
+  Type       : From Distribution
+  MAC        : 88:B1:11:6B:0F:17
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 249
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:23 2019
+ Client 2: MAC 9C:B6:D0:66:B5:B7
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:23 2019
+  Last       : Fri Oct 11 13:50:23 2019
+  Type       : From Distribution
+  MAC        : 9C:B6:D0:66:B5:B7
+  Channel    : 0
+  Frequency  : 2437 - 1 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b+
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 1
+  Crypt      : 1
+  Fragments  : 0
+  Retries    : 0
+  Total      : 1
+  Datasize   : 339
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 1 packets
+               Fri Oct 11 13:50:23 2019
+ Client 3: MAC FE:EC:DA:A4:52:34
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:23 2019
+  Last       : Fri Oct 11 13:51:05 2019
+  Type       : From Distribution
+  MAC        : FE:EC:DA:A4:52:34
+  Channel    : 6
+  Frequency  : 2437 - 9 packets, 100.00%
+  Max Seen   : 1000
+  LLC        : 9
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 9
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 9 packets
+               Fri Oct 11 13:51:05 2019
+Network 32: BSSID FE:EC:DA:A5:52:34
+ Manuf      : Unknown
+ First      : Fri Oct 11 13:50:24 2019
+ Last       : Fri Oct 11 13:50:54 2019
+ Type       : infrastructure
+ BSSID      : FE:EC:DA:A5:52:34
+   SSID 1
+    Type       : Beacon
+    SSID       : "NSL" 
+    First      : Fri Oct 11 13:50:35 2019
+    Last       : Fri Oct 11 13:50:54 2019
+    Max Rate   : 450.0
+    Beacon     : 10
+    Packets    : 8
+    WPS        : No
+    Encryption : WPA+PSK
+    Encryption : WPA+AES-CCM
+    WPA Version: WPA2
+ Channel    : 36
+ Frequency  : 5180 - 8 packets, 80.00%
+ Frequency  : 5200 - 2 packets, 20.00%
+ Max Seen   : 24000
+ Carrier    : IEEE 802.11b
+ Encoding   : CCK
+ LLC        : 8
+ Data       : 2
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 10
+ Datasize   : 48
+ Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+ Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+ Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+ Last BSSTS : Jul 27 15:23:30
+    Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 10 packets
+              Fri Oct 11 13:50:54 2019
+ Client 1: MAC 8C:85:90:24:2A:DF
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:24 2019
+  Last       : Fri Oct 11 13:50:24 2019
+  Type       : To Distribution
+  MAC        : 8C:85:90:24:2A:DF
+  Channel    : 0
+  Frequency  : 5200 - 2 packets, 100.00%
+  Max Seen   : 24000
+  Carrier    : IEEE 802.11b
+  Encoding   : CCK
+  LLC        : 0
+  Data       : 2
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 2
+  Datasize   : 48
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 2 packets
+               Fri Oct 11 13:50:24 2019
+ Client 2: MAC FE:EC:DA:A5:52:34
+  Manuf      : Unknown
+  First      : Fri Oct 11 13:50:35 2019
+  Last       : Fri Oct 11 13:50:54 2019
+  Type       : From Distribution
+  MAC        : FE:EC:DA:A5:52:34
+  Channel    : 36
+  Frequency  : 5180 - 8 packets, 100.00%
+  Max Seen   : 6000
+  Carrier    : IEEE 802.11b
+  Encoding   : CCK
+  LLC        : 8
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 8
+  Datasize   : 0
+  Min Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Max Pos    : Lat 34.197994 Lon -118.343781 Alt 220.106995 Spd 0.000000
+  Peak Pos   : Lat 34.197994 Lon -118.343781 Alt 220.106995
+  Avg Pos    : AvgLat 34.197994 AvgLon -118.343780 AvgAlt 220.106900
+     Seen By : wlan0mon (wlan0mon) bae7fc98-ec68-11e9-a0fa-2606e2342c03 8 packets
+               Fri Oct 11 13:50:54 2019
