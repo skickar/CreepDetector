@@ -16,3 +16,8 @@ This Jupyter Notebook script identifies MAC addresses following you between diff
   <br>
   <br>
 </p>
+
+## Documentation
+[Detecting Stalkers over Wi-Fi SecurityFWD Episode](https://www.youtube.com/watch?v=wNke7teywOs)  
+[CreepDetector Code Breakdown Video](https://youtu.be/ug9dHwm3h0s)  
+[CreepDetector Blog Post](http://alexlynd.com/projects/CreepDetector/)
