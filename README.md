@@ -5,12 +5,12 @@ This Jupyter Notebook script identifies MAC addresses following you between diff
 
 ## Snapshots
 <p align="center">
-  <img alt="" src="img/creep2.png">
+  <img alt="CreepDetector list in Jupyter Notebook table" src="img/creep-list.png">
   <br>
   <b>Creep list generated in Jupyter Notebook</b>
   <br>
   <br>
-  <img alt="" src="img/creep.png">
+  <img alt="CreepDetector Map rendered in Folium" src="img/creep-map.png">
   <br>
   <b>Rendered Creep map with Folium</b>
   <br>
